@@ -101,3 +101,14 @@ body {
   margin: 3% auto;
   border-radius: 15%;
 }
+@media only screen and (max-width: 1020px){
+  .container {
+   width:65%;
+  margin:5% auto; 
+  }
+  #level-title {
+    margin-bottom:6%;
+  }
+  .start1{
+    margin: 6% auto;
+}
