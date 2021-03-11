@@ -1,4 +1,4 @@
-# simongame
+Simon Game
 
 
 Website Link : https://deveshprasad.github.io/SimonGame
