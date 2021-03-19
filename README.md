@@ -10,7 +10,7 @@ Website Link : https://deveshprasad.github.io/SimonGame
 
 ## ✨About the Project
 
-My project i.e a responsive website to show my designing and front-end skills in web development.
+Simon game 
 
 ## Environment Setup for local use-
 
@@ -42,7 +42,7 @@ My project i.e a responsive website to show my designing and front-end skills in
 ## Maintainer ✨
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/deveshprasad"><img src="https://avatars.githubusercontent.com/u/63739986?s=460&u=7f3c89bd6859a6406a9890a4936910b710ee721e&v=4" width="100px;" alt=""/><br /><sub><b>Devesh Prasad</b></sub></a><br /><a href="https://github.com/deveshprasad/deveshprasad.github.io/commits?author=deveshprasad" title="Code">💻</a><a href="https://github.com/deveshprasad/deveshprasad.github.io/commits?author=deveshprasad" title="Documentation">📖</a> <a href="https://github.com/deveshprasad/deveshprasad.github.io/commits?author=deveshprasad" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/deveshprasad"><img src="https://avatars.githubusercontent.com/u/63739986?s=460&u=7f3c89bd6859a6406a9890a4936910b710ee721e&v=4" width="100px;" alt=""/><br /><sub><b>Devesh Prasad</b></sub></a><br /><a href="https://github.com/deveshprasad/SimonGame/commits?author=deveshprasad" title="Code">💻</a><a href="https://github.com/deveshprasad/SimonGame/commits?author=deveshprasad" title="Documentation">📖</a> <a href="https://github.com/deveshprasad/SimonGame/commits?author=deveshprasad" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
